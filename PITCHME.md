@@ -10,4 +10,10 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Users type
+
+1. Admin Bandingin: 0
+2. User Frontend: 1
+3. User Asuransi: 2
+
+---
