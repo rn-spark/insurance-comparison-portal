@@ -47,6 +47,9 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 ### User insurance can
 
-1.1 Insurance -> Insurance Provider : Searching company, filter result, view company detail, add product
+1.1 Insurance -> Insurance Provider : Searching company, filter result, view company detail, add product.
+
 1.2 Insurance -> Products : Searching by category and provider, bulk update, update, show detail, and delete product.
+
+---
 
