@@ -53,3 +53,8 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 ---
 
+### User insurance can
+
+1.3 Insurance -> Archived Products : (function as soft delete) Searching by category, searching by provider, edit, show detail, unarchived product.
+
+1.4. Insurance -> Products Approval : Searching, search filter, search by provider, view detail of pending product to reject, edit, approve.
