@@ -12,8 +12,8 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
 
 ### Users type
 
-1. Admin Bandingin: 0
-2. User Frontend: 1
-3. User Asuransi: 2
+1. Administrator  : 0
+2. Frontend User  : 1
+3. Insurance User : 2
 
 ---
