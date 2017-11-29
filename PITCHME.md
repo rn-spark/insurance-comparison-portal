@@ -59,6 +59,8 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 2.4. Insurance -> Products Approval : Searching, search filter, search by provider, view detail of pending product to reject, edit, approve.
 
+---
+
 ### User insurance can - 3
 
 3. Report -> Performance Report : Filter by date, search statistic by insurance type, feedback statistic, search performance. 
