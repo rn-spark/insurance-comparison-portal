@@ -26,3 +26,21 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, __Latest Added Product__, __Ongoing Chats__, __Latest Request Callback__, __Today Most Viewed Product__, __Ongoing Rating__.
 
 ---
+
+### User insurance dashboard menu
+
+1. Dashboard
+2. Insurance
+    - Insurance provider
+    - Products
+    - Archived Products
+    - Product Approval
+
+---
+
+### User insurance dashboard menu
+
+3. Report
+    - Performance Report
+
+---
