@@ -47,13 +47,20 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 ### User insurance can - 1
 
+1.1 Dashboard : statistic/ sticker information of 
+New Click, New Leads, New Ins Website Click, New Email Request, Latest Added Product, Ongoing Chats, Latest Request Callback, Today Most Viewed Product, Ongoing Rating.
+
+---
+
+### User insurance can - 2
+
 2.1 Insurance -> Insurance Provider : Searching company, filter result, view company detail, add product.
 
 2.2 Insurance -> Products : Searching by category and provider, bulk update, update, show detail, and delete product.
 
 ---
 
-### User insurance can - 2
+### User insurance can - 2.1
 
 2.3 Insurance -> Archived Products : (function as soft delete) Searching by category, searching by provider, edit, show detail, unarchived product.
 
