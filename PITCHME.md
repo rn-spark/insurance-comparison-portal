@@ -22,6 +22,15 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
 
 #### Homepage
 
-In Dashboard menu link or dashboard homepage will be presented with statistic/ sticker information of New Click, New Leads, New Ins Website Click, New Email Request, Latest Added Product, Ongoing Chats, Latest Request Callback, Today Most Viewed Product, Ongoing Rating. 
+In Dashboard menu link or dashboard homepage will be presented with statistic/ sticker information of 
+- New Click, 
+- New Leads, 
+- New Ins Website Click, 
+- New Email Request, 
+- Latest Added Product, 
+- Ongoing Chats, 
+- Latest Request Callback, 
+- Today Most Viewed Product, 
+- Ongoing Rating.
 
 ---
