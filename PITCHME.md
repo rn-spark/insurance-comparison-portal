@@ -77,6 +77,19 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 +++
 
+- Report
+    - Performance Report
+    - Impression Report
+    - Global Report
+    - Search Result Report
+- Testimonial
+- Settings
+    - Mailbox Settings
+    - Footer Settings
+    - General Settings
+
++++
+
 
 
 ---
