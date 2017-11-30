@@ -26,12 +26,11 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 ### User administrator dashboard menu
 
-1) Dashboard
-
-2) Users
+- Dashboard
+- Users
     - List User
     - List Roles
-3) Insurance
+- Insurance
     - Insurance provider
     - Products
     - Archived Products
@@ -39,7 +38,7 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 +++
 
-4) Customers
+- Customers
     - Inquiry
     - Inquiry Sent
     - Request Callback
@@ -53,7 +52,7 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 +++
 
-5) Customers
+- Customers
     - Bandingin Review
 
 ---
@@ -69,8 +68,8 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 ### User insurance dashboard menu
 
-1. Dashboard
-2. Insurance
+- Dashboard
+- Insurance
     - Insurance provider
     - Products
     - Archived Products
@@ -80,7 +79,7 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 ### User insurance dashboard menu
 
-3. Report
+- Report
     - Performance Report
 
 ---
