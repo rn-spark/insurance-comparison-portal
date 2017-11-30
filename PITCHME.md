@@ -101,7 +101,6 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - List User : Search user, filter, add new user, edit user, assign role, delete user
     - List Roles : Search role, filter, add new role, edit role, delete role
 
-
 ---
 
 ### User insurance dashboard login
@@ -131,21 +130,19 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 
 ### User insurance can
 
-1.1 Dashboard : statistic/ sticker information of 
+- Dashboard : view statistic/ sticker information of 
 __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, __Latest Added Product__, __Ongoing Chats__, __Latest Request Callback__, __Today Most Viewed Product__, __Ongoing Rating__.
 
 +++
 
-2.1 Insurance -> Insurance Provider : Searching company, filter result, view company detail, add product.
-
-2.2 Insurance -> Products : Searching by category and provider, bulk update, update, show detail, and delete product.
-
-+++
-
-2.3 Insurance -> Archived Products : (function as soft delete) Searching by category, searching by provider, edit, show detail, unarchived product.
-
-2.4. Insurance -> Products Approval : Searching, search filter, search by provider, view detail of pending product to reject, edit, approve.
+- Insurance
+    - Insurance Provider : Searching company, filter result, view company detail, add product.
+    - Products : Searching by category and provider, bulk update, update, show detail, and delete product.
+    - Archived Products : (function as soft delete) Searching by category, searching by provider, edit, show detail, unarchived product.
+    - Products Approval : Searching, search filter, search by provider, view detail of pending product to reject, edit, approve.
 
 +++
 
-3. Report -> Performance Report : Filter by date, search statistic by insurance type, feedback statistic, search performance. 
+- Report
+    - Performance Report : Filter by date, search statistic by insurance type, feedback statistic, search performance.
+
