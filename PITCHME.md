@@ -46,7 +46,7 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Request Callback
     - Email Me
     - Contact Us
-    - Contact Us Done
+    - Contact Us Done |
     - Mailing List
     - Contact Us Review
     - Product Review
