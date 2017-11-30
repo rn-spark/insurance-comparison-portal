@@ -26,12 +26,12 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 ### User administrator dashboard menu
 
-a. Dashboard
+1) Dashboard
 
-b. Users
+2) Users
     - List User
     - List Roles
-c. Insurance
+3) Insurance
     - Insurance provider
     - Products
     - Archived Products
@@ -39,7 +39,7 @@ c. Insurance
 
 +++
 
-a. Customers
+4) Customers
     - Inquiry
     - Inquiry Sent
     - Request Callback
@@ -53,7 +53,7 @@ a. Customers
 
 +++
 
-b. Customers
+5) Customers
     - Bandingin Review
 
 ---
