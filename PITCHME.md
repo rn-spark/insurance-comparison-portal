@@ -26,11 +26,12 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 ### User administrator dashboard menu
 
-a Dashboard
-b Users
+a. Dashboard
+
+b. Users
     - List User
     - List Roles
-c Insurance
+c. Insurance
     - Insurance provider
     - Products
     - Archived Products
