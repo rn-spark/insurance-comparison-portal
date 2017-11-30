@@ -52,8 +52,32 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 +++
 
-- Customers
-    - Bandingin Review
+- Invoices
+    - List Transactions
+    - List Subcriptions
+- Rates
+    - Property
+    - Car
+    - Motorcycle
+- Forum
+- Logs
+- Chat
+
++++
+
+- Guides
+    - Categories
+    - Create New Guide
+    - Guide List
+- Pages
+- News
+    - Categories
+    - Create New Post
+    - Post List
+
++++
+
+
 
 ---
 
