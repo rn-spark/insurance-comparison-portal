@@ -24,7 +24,7 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 ---
 
-### User administrator dashboard menu
+### User administrator dashboard menu - 1
 
 1. Dashboard
 2. Users
@@ -35,6 +35,22 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Products
     - Archived Products
     - Product Approval
+
+---
+
+### User administrator dashboard menu - 2
+
+4. Customers
+    - Inquiry
+    - Inquiry Sent
+    - Request Callback
+    - Email Me
+    - Contact Us
+    - Contact Us Done
+    - Mailing List
+    - Contact Us Review
+    - Product Review
+    - Bandingin Review
 
 ---
 
@@ -68,7 +84,7 @@ __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, 
 ### User insurance can - 1
 
 1.1 Dashboard : statistic/ sticker information of 
-New Click, New Leads, New Ins Website Click, New Email Request, Latest Added Product, Ongoing Chats, Latest Request Callback, Today Most Viewed Product, Ongoing Rating.
+__New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, __Latest Added Product__, __Ongoing Chats__, __Latest Request Callback__, __Today Most Viewed Product__, __Ongoing Rating__.
 
 ---
 
