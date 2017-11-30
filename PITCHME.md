@@ -12,9 +12,9 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
 
 ### Users type
 
-1. Administrator  : 0
-2. Frontend User  : 1
-3. Insurance User : 2
+- Administrator  : 0
+- Frontend User  : 1 |
+- Insurance User : 2 |
 
 ---
 
@@ -38,8 +38,6 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 +++
 
-### User administrator dashboard menu
-
 4. Customers
     - Inquiry
     - Inquiry Sent
@@ -50,6 +48,11 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Mailing List
     - Contact Us Review
     - Product Review
+    - Bandingin Review
+
++++
+
+4. Customers
     - Bandingin Review
 
 ---
