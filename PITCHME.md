@@ -115,10 +115,19 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 +++
     
     - __Ongoing Rating__.
-    
+
 - Users : Users Management
     - List User : Search user, filter, add new user, edit user, assign role, delete user
     - List Roles : Search role, filter, add new role, edit role, delete role
+- 
+
++++
+
+- Insurance
+    - Insurance Provider : Searching company, filter result, view company detail, add product.
+    - Products : Searching by category and provider, bulk update, update, show detail, and delete product.
+    - Archived Products : (function as soft delete) Searching by category, searching by provider, edit, show detail, unarchived product.
+    - Products Approval : Searching, search filter, search by provider, view detail of pending product to reject, edit, approve.
 
 ---
 
