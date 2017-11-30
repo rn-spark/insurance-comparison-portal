@@ -88,8 +88,18 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Footer Settings
     - General Settings
 
+---
+
+### User administrator can
+
+- Dashboard
+In Dashboard menu link or dashboard homepage will be presented with statistic/ sticker information of __New Click__, __New Leads__, __New Ins Website Click__, __New Email Request__, __Latest Added Product__, __Ongoing Chats__, __Latest Request Callback__, __Today Most Viewed Product__, __Ongoing Rating__.
+
 +++
 
+- Users : Users Management
+    - List User : Search user, filter, add new user, edit user, assign role, delete user
+    - List Roles : Search role, filter, add new role, edit role, delete role
 
 
 ---
