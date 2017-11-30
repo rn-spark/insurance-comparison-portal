@@ -113,8 +113,9 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - __Today Most Viewed Product__, 
 
 +++
-    
-- __Ongoing Rating__.
+
+- Dashboard
+    - __Ongoing Rating__.
 - Users : Users Management
     - List User : Search user, filter, add new user, edit user, assign role, delete user
     - List Roles : Search role, filter, add new role, edit role, delete role
