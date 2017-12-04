@@ -1,21 +1,9 @@
-# Bandingin.com 
-
-Bandingin.com is an insurance comparison portal.
-
----
-
-### What is bandingin.com
-
-Bandingin.com is an insurance comparison portal for health insurance, Vehicle insurance, personal accident insurance, property assurance, life insurance, travel insurance, micro insurance and Takaful Insurance.
-
----
-
 ### Users type
 
 - Administrator  : 0
 - Frontend User  : 1 |
 - Insurance User : 2 |
-- Guest |
+- __Guest__ |
 
 ---
 
@@ -73,4 +61,3 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
     - Term And Conditions
     - Contact Us
 
-+++
