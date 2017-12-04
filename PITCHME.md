@@ -98,6 +98,30 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Our Partner
     - Glossary
 
+### Guest user bottom menu
+
+- Our Product
+    - Car Insurance
+    - Property Insurance
+    - Life Insurance
+    - Travel Insurance
+    - Health Insurance
+    - Personal Accident Insurance
+    - Motorcycle Insurance
+- Knowledge Center
+    - Guide
+    - Recent News
+    - F.A.Qs
+    - Our Partner
+    - Glossary
+- Bandingin
+    - About Us
+    - How It Works
+    - Feedback
+    - Privacy Policy
+    - Term And Conditions
+    - Contact Us
+
 ### User Frontend dashboard login
 
 - Backend
