@@ -1,9 +1,9 @@
 ### Users type
 
-- Administrator  : 0
-- Frontend User  : 1 |
-- Insurance User : 2 |
-- __Guest__ |
+- [Administrator](https://gitpitch.com/rn-spark/insurance-comparison-portal/admin)
+- [Frontend User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user)
+- [Insurance User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user-insurance)
+- __[Guest](https://gitpitch.com/rn-spark/insurance-comparison-portal/guest-user)__
 
 ---
 
