@@ -12,9 +12,9 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
 
 ### Users type
 
-- [Administrator](https://gitpitch.com/rn-spark/insurance-comparison-portal/admin)  : 0
-- [Frontend User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user)  : 1 |
-- [Insurance User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user-insurance) : 2 |
+- [Administrator](https://gitpitch.com/rn-spark/insurance-comparison-portal/admin) 
+- [Frontend User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user) |
+- [Insurance User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user-insurance) |
 - [Guest](https://gitpitch.com/rn-spark/insurance-comparison-portal/guest-user) |
 
 ---
