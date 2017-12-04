@@ -1,66 +1,11 @@
-# Bandingin.com 
-
-Bandingin.com is an insurance comparison portal.
-
----
-
-### What is bandingin.com
-
-Bandingin.com is an insurance comparison portal for health insurance, Vehicle insurance, personal accident insurance, property assurance, life insurance, travel insurance, micro insurance and Takaful Insurance.
-
----
-
 ### Users type
 
-- Administrator  : 0
-- Frontend User  : 1 |
-- Insurance User : 2 |
-- Guest |
+- [Administrator](https://gitpitch.com/rn-spark/insurance-comparison-portal/admin)
+- __[Frontend User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user)__
+- [Insurance User](https://gitpitch.com/rn-spark/insurance-comparison-portal/user-insurance)
+- [Guest](https://gitpitch.com/rn-spark/insurance-comparison-portal/guest-user)
 
 ---
-
-### Guest user top menu
-
-- Product
-    - Car Insurance
-    - Property Insurance
-    - Life Insurance
-    - Travel Insurance
-    - Health Insurance
-    - Personal Accident Insurance
-    - Motorcycle Insurance
-- How It works
-- Contact
-- Knowledge Center
-    - Guide
-    - Recent News
-    - F.A.Qs
-    - Our Partner
-    - Glossary
-
-### Guest user bottom menu
-
-- Our Product
-    - Car Insurance
-    - Property Insurance
-    - Life Insurance
-    - Travel Insurance
-    - Health Insurance
-    - Personal Accident Insurance
-    - Motorcycle Insurance
-- Knowledge Center
-    - Guide
-    - Recent News
-    - F.A.Qs
-    - Our Partner
-    - Glossary
-- Bandingin
-    - About Us
-    - How It Works
-    - Feedback
-    - Privacy Policy
-    - Term And Conditions
-    - Contact Us
 
 ### User Frontend dashboard login
 
