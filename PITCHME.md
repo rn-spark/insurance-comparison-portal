@@ -15,6 +15,7 @@ Bandingin.com is an insurance comparison portal for health insurance, Vehicle in
 - Administrator  : 0
 - Frontend User  : 1 |
 - Insurance User : 2 |
+- Guest |
 
 ---
 
