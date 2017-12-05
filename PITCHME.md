@@ -172,3 +172,23 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Post List : View posts list, search posts, add posts, view posts, modify translation, edit post, delete post.
 
 +++
+
+- Report
+    - Performance Report : Search filter by date, statistic of : # customer data, # registered user, # car search, # motorcycle search, # property search, # life search, # health search, # travel search, # personal accident search, # bandingin feedback requested, # product feedback requested, User Registration Performance Graphic, Search Performance.
+
++++
+
+- Report
+    - Impression Report : List product, search product, export, filter, view detail product.
+    - Global Report : Filter by date, report chart, report summary by : view, email me, ajukan detail, top 10 views, top 10 email me, top 10 ask me.
+    - Search Result Report : /error
+
++++
+
+- Testimonial : View testimonial data list, add testimonial. 
+- Settings
+    - Mailbox Settings : Technical mailbox Emails, Business Proccess Mailbox Email.
+    - Footer Settings : Footer setting main configuration.
+    - General Settings : Main configuration, logo images, company information, socket.io & redis connection, global statistic pricing.
+
++++
