@@ -121,27 +121,27 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 - Insurance
     - Products Approval : View data, Searching, search filter, search by provider, view detail of pending product to reject, edit, approve.
 - Customers
-    - Inquiry : View data, Filter data by date, Search data, Export into xlsx.
-    - Inquiry Sent : View data, Filter data by date, Search data, Export into xlsx.
-    - Request Callback : View data, Filter data by date, Search data, Export into xlsx.
+    - Inquiry : View data, Filter data by date, search data, export into xlsx.
+    - Inquiry Sent : View data, Filter data by date, search data, export into xlsx.
+    - Request Callback : View data, Filter data by date, search data, export into xlsx.
 
 +++
 
 - Customers
-    - Email Me : View data, Search data, view, download, read pdf.
-    - Contact Us : View data, Search data, Export into xlsx, contact us report.
-    - Contact Us Done : View data, Search data, Export into xlsx.
-    - Mailing List : View data, Search data, Export into xlsx.
-    - Contact Us Review : View data, Search data, Export into xlsx.
+    - Email Me : View data, search data, view, download, read pdf.
+    - Contact Us : View data, search data, export into xlsx, contact us report.
+    - Contact Us Done : View data, search data, export into xlsx.
+    - Mailing List : View data, search data, export into xlsx.
+    - Contact Us Review : View data, search data, export into xlsx.
 
 +++
 
 - Customers
-    - Product Review : View data, Search data, Export into xlsx.
-    - Bandingin Review : View data, Search data, Export into xlsx.
+    - Product Review : View data, search data, export into xlsx.
+    - Bandingin Review : View data, search data, export into xlsx.
 - Invoices
-    - List Transactions : View data, Search data.
-    - List Subcriptions : View data, Search data.
+    - List Transactions : View data, search data.
+    - List Subcriptions : View data, search data.
 
 +++
 
@@ -152,8 +152,23 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
 
 +++
 
-- Forum : View Data, Search data, View forum.
+- Forum : View Data, search data, view forum.
 - Logs  : View data, Sort data, Select category, download Excel.
 - Chat  : Chat management.
+
++++
+
+- Guides
+    - Categories : search data, Add data, Edit data, Delete data.
+    - Create New Guide : Create new guide
+    - Guide List : View data, search data, add post, view post, create translation, edit data, delete data.
+
++++
+
+- Pages : View pages list, search pages, add pages, view pages, modify translation, edit page, delete page.
+- News 
+    - Categories : View category list, search category, add category, edit category, delete category.
+    - Create New Post : Create new post
+    - Post List : View posts list, search posts, add posts, view posts, modify translation, edit post, delete post.
 
 +++
