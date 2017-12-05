@@ -149,6 +149,9 @@ In Dashboard menu link or dashboard homepage will be presented with statistic/ s
     - Property : All risks, standard rates, earthquake rates, additional rates.
     - Car : Comprehensive, Total Loss Only, Comprehensive Additional, Total Loss Only Additional.
     - Motorcycle : Comprehensive, Total Loss Only, Comprehensive Additional, Comprehensive Total Loss Only.
+
++++
+
 - Forum : View Data, Search data, View forum.
 - Logs  : View data, Sort data, Select category, download Excel.
 - Chat  : Chat management.
